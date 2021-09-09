@@ -24,7 +24,7 @@
     <img align="center"  src="https://icongr.am/devicon/python-original.svg?size=38&color=currentColor"/>
     <img align="center"  src="https://icongr.am/devicon/illustrator-plain.svg?size=38&color=currentColor"/>
     <img align="center"  src="https://icongr.am/devicon/laravel-plain.svg?size=38&color=currentColor"/>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+    <img align="center" src="https://icongr.am/devicon/linux-original.svg?size=35&color=currentColor"/>
   </div>
   
   ##
