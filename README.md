@@ -25,6 +25,7 @@
     <img align="center"  src="https://icongr.am/devicon/illustrator-plain.svg?size=38&color=currentColor"/>
     <img align="center"  src="https://icongr.am/devicon/laravel-plain.svg?size=38&color=currentColor"/>
     <img align="center" src="https://icongr.am/devicon/linux-original.svg?size=35&color=currentColor"/>
+     <img align="center" src="https://icongr.am/simple/firebase.svg?size=39&color=ffdd00&colored=false"/>
   </div>
   
   ##
