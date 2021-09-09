@@ -17,9 +17,20 @@
     <img align="center" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=34&color=currentColor"/>
     <img align="center"  src="https://icongr.am/devicon/npm-original-wordmark.svg?size=34&color=currentColor"/>
     <img align="center" src="https://icongr.am/devicon/postgresql-original.svg?size=34&color=currentColor"/>
-    <img align="center" src="https://icongr.am/devicon/php-original.svg?size=34&color=currentColor"/>
-    <img align="center" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=34&color=currentColor"/>
-    <img align="center" src=""/>
-    <img align="center"  src=""/>
-    v
+    <img align="center" src="https://icongr.am/devicon/php-original.svg?size=54&color=currentColor"/>
+    <img align="center" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=54&color=currentColor"/>
+    <img align="center" src="https://icongr.am/devicon/react-original.svg?size=34&color=currentColor"/>
+    <img align="center"  src="https://icongr.am/devicon/typescript-original.svg?size=34&color=currentColor"/>
+    <img align="center"  src="https://icongr.am/devicon/python-original.svg?size=38&color=currentColor"/>
+    <img align="center"  src="https://icongr.am/devicon/illustrator-plain.svg?size=38&color=currentColor"/>
+    <img align="center"  src="https://icongr.am/devicon/laravel-plain.svg?size=38&color=currentColor"/>
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+  </div>
+  
+  ##
+  
+  <div>
+    <a href="https://www.linkedin.com/in/fabio-gonzalez-3952681ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://t.me/FabioCBJR013" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+    <a href="https://paginaweb-five.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" target="_blank"></a>
   </div>
