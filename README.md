@@ -34,6 +34,6 @@
     <a href="https://t.me/FabioCBJR013" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
     <a href="https://paginaweb-five.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" target="_blank"></a>
     
-    ![Snake animation](https://github.com/g0nzano/g0nzano/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/g0nzano/g0nzano/blob/output/github-contribution-grid-snake.svg)
     
   </div>
