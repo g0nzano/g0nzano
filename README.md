@@ -26,6 +26,7 @@
     <img align="center"  src="https://icongr.am/devicon/laravel-plain.svg?size=38&color=3dd8ff"/>
     <img align="center" src="https://icongr.am/devicon/linux-original.svg?size=35&color=currentColor"/>
      <img align="center" src="https://icongr.am/simple/firebase.svg?size=39&color=ffdd00&colored=false"/>
+    <img align="center" src="https://icongr.am/simple/arduino.svg?size=38&color=00e0a1&colored=false"/>
   </div>
   
   ##
